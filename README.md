@@ -10,5 +10,5 @@ that will check if the input that the script getting from the user is qualify
 ### Script instructions 
 - You can download or clone my script by using `git clone` or use the green download button
 - You need to Open Bash CLI
-- run the command `./password-validator.sh -f "/mypath/text.txt"` from the script location
+- run the command `./PassValid.sh -f "/mypath/text.txt"` from the script location
 
